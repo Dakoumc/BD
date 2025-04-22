@@ -43,3 +43,35 @@ Viens plutôt faire de la musique avec moi !"
 Mais Fiona secouait la tête : "Je préfère avancer régulièrement.
 Tu verras bien quand l'hiver des deadlines arrivera."
 
+===== Chapitre 2 - Les Branches d'Automne =====
+
+   (\~_~/)
+    (•-•)
+   / ︶︶ \    Cécile regarde l’écran, un peu stressée...
+  (  ._.  )     "Encore deux mois..."
+
+L'automne s'installa doucement sur la forêt numérique. Les feuilles
+des arbres changeaient de couleur, tout comme le calendrier qui commençait
+à afficher des dates inquiétantes pour Cécile.
+
+Un matin, en regardant la date, Cécile sentit une goutte de sueur perler
+sur son front. "Encore deux mois avant la date limite... ça devrait aller,
+non ?" se dit-elle, mais pour la première fois, un doute s'installa.
+
+Elle ouvrit son ordinateur et créa enfin un nouveau repository. "Projet_Cigale",
+le nomma-t-elle, avant de refermer son laptop pour aller jouer un dernier concert.
+
+Fiona, quant à elle, peaufinait la structure de son projet. Ses branches
+étaient nombreuses et bien organisées : "feature/authentification",
+"feature/interface", "bugfix/performance"... Son repository ressemblait
+à un arbre majestueux aux multiples branches robustes.
+
+"Je devrais peut-être commencer à fusionner certaines branches vers
+la branche principale," réfléchit Fiona. "La date approche et mon
+projet prend belle allure."
+
+Ce jour-là, quand elles se croisèrent, Cécile semblait moins joviale.
+"J'ai créé mon repository," dit-elle timidement.
+
+"C'est un bon début," encouragea Fiona. "Mais n'oublie pas qu'un
+repository vide ne vaut pas mieux qu'un projet inexistant."
