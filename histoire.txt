@@ -75,3 +75,42 @@ Ce jour-là, quand elles se croisèrent, Cécile semblait moins joviale.
 
 "C'est un bon début," encouragea Fiona. "Mais n'oublie pas qu'un
 repository vide ne vaut pas mieux qu'un projet inexistant."
+
+===== Chapitre 3 - Les Premiers Flocons de Panique =====
+
+    ___
+   (x_x)
+  <)   )╯
+   /   \
+  /_____\
+
+Les premiers flocons de l'hiver commencèrent à tomber sur la forêt numérique.
+Avec eux, vinrent les premiers moments de panique pour Cécile.
+
+Un mois avant la deadline, Cécile ouvrit son repository quasi-vide
+et contempla l'ampleur de la tâche. "Comment ai-je pu laisser passer
+tant de temps ?" se lamenta-t-elle.
+
+Fébrilement, elle commença à coder, ajoutant des fichiers en vrac,
+sans structure ni organisation. Son premier commit portait le message
+désespéré : "ajoute tout le projet d'un coup".
+
+Quand un bug apparut, elle ne savait pas comment revenir en arrière.
+Quand une nouvelle idée surgissait, elle modifiait directement le code
+existant sans créer de branche.
+
+"Ce n'est pas possible," gémit-elle après trois jours de travail acharné
+et désordonné. "Je n'y arriverai jamais à temps."
+
+Pendant ce temps, Fiona effectuait ses derniers merge dans la branche
+principale. Son projet était presque terminé, chaque fonctionnalité
+soigneusement testée et intégrée.
+
+Ce jour-là, elle aperçut Cécile, les yeux cernés et l'air hagard.
+"Tout va bien ?" demanda Fiona, inquiète.
+
+"Je suis perdue," admit Cécile. "Mon code est un désastre et je ne
+sais même pas comment utiliser Git correctement."
+
+Fiona observa son amie un moment, puis dit doucement : "Peut-être
+que je pourrais t'aider..."
