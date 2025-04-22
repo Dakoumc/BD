@@ -1,0 +1,9 @@
+LA CIGALE ET LA FOURMI - UNE AVENTURE NUMÉRIQUE
+
+Dans une forêt numérique où le code est roi, vivaient deux amis improbables : 
+Cécile la Cigale, musicienne insouciante et développeuse à ses heures perdues, 
+et Fiona la Fourmi, programmeuse méthodique et organisée.
+
+Leur aventure à travers le monde de Git nous enseigne non seulement 
+les vertus de la prévoyance, mais aussi la puissance de la collaboration 
+quand vient l'hiver des deadlines de projets.
