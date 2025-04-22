@@ -172,3 +172,36 @@ Cette nuit-là, elle écrivit son premier vrai message :
 git commit -m "Ajoute interface utilisateur de base"
 
 "Tu progresses. Tu deviens une développeuse."
+
+===== Chapitre 6 - Le Remerciement d'un Ami =====
+
+    (\~_~/)
+     ( •ᴗ• )
+    / ︶︶ \
+   ( MERCI )~
+
+   .-"""""""-.
+  /   MUG     \
+ |  "C'est     |
+ |  quand tu   |
+ |  tombes..." |
+  \___________/
+
+Le projet fut rendu à l'heure. Fonctionnel, clair, documenté.
+Les professeurs furent impressionnés par la qualité du code,
+mais aussi par les messages de commit qui racontaient une
+vraie progression.
+
+Deux jours plus tard, Fiona trouva un petit paquet dans sa boîte
+aux lettres. Juste une boîte kraft avec un petit mot :
+"Merci de ne pas m'avoir laissée tomber. – Cécile"
+
+À l'intérieur, un mug sobre, noir. Sur la paroi, une simple phrase :
+"C'est quand tu tombes que tu découvres ce que tu es vraiment."
+
+Fiona sourit. Un autocollant discret était collé sous le mug,
+représentant un petit œil rouge stylisé. Une référence à un
+personnage qui avait tant chuté avant de se relever.
+
+Et quelque part, Cécile, la cigale devenue codeuse, partageait
+à son tour des conseils à une autre camarade perdue.
