@@ -142,3 +142,33 @@ que tu le mérites. Parce que parfois, quelqu'un doit tendre la main."
 
 Cécile sentit un poids tomber de ses épaules. Fiona était là.
 
+===== Chapitre 5 - Apprendre à tomber =====
+
+   (\~_~/)      	(\^_^/)
+   ( •_• )           ( •ᴗ• )
+  / ︶︶ \     	/ ︶︶ \
+ (  GIT  )~    ( CODE )~
+
+Fiona rit en voyant le message de commit : "ajoute tout le projet d'un coup".
+
+"Première leçon : on ne commit pas dans la panique."
+
+Elle guida Cécile pas à pas :
+git add .
+git commit -m "Réorganisation du projet"
+git checkout -b feature/connexion
+
+À un moment, Cécile déclencha un conflit. "J'ai tout cassé..."
+
+"Pas de panique. C'est juste un conflit. Git te demande de choisir."
+
+git add .
+git commit
+
+"Tu vois ? Tu viens de survivre à ton premier conflit. C'est comme
+ta première chute à vélo. Ça pique, mais tu t'en souviendras."
+
+Cette nuit-là, elle écrivit son premier vrai message :
+git commit -m "Ajoute interface utilisateur de base"
+
+"Tu progresses. Tu deviens une développeuse."
