@@ -7,3 +7,39 @@ et Fiona la Fourmi, programmeuse méthodique et organisée.
 Leur aventure à travers le monde de Git nous enseigne non seulement 
 les vertus de la prévoyance, mais aussi la puissance de la collaboration 
 quand vient l'hiver des deadlines de projets.
+
+===== Chapitre 1 - Le Temps des Commits d'Été =====
+
+   (\~_~/)
+   ( •ᴗ• )
+   / ︶︶ \
+  (   ♫   )~
+
+Cécile la Cigale chantait tout l'été, ignorant totalement son repository Git.
+Ses journées se passaient à composer des mélodies et à profiter du soleil,
+tandis que son projet de fin d'études restait désespérément vide.
+
+"À quoi bon s'inquiéter maintenant ? La deadline est si loin !"
+gazouillait Cécile en grattant sa guitare.
+
+    (\_._/)
+    ( •̀_•́ )
+    /|_|_|\ 
+   (_______)
+
+
+Pendant ce temps, Fiona la Fourmi travaillait méthodiquement.
+Chaque jour, elle ajoutait du code, créait des branches et poussait
+des commits avec des messages clairs et précis.
+
+"Un commit par jour éloigne les bugs toujours," murmurait Fiona
+en organisant soigneusement son projet. "Et avec des branches bien
+structurées, je pourrai facilement gérer les fonctionnalités."
+
+Quand elles se croisaient dans la forêt numérique, Cécile riait :
+"Pourquoi passer l'été à coder quand la deadline est dans des mois ?
+Viens plutôt faire de la musique avec moi !"
+
+Mais Fiona secouait la tête : "Je préfère avancer régulièrement.
+Tu verras bien quand l'hiver des deadlines arrivera."
+
